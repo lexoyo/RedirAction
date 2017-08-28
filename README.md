@@ -14,8 +14,7 @@ These params are optional:
 
 ## Example with my clone: 
 
-Open this URL to be redirected to lexoyo.me after 1s:
-http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me)
+[Open this URL to be redirected to lexoyo.me after 1s](http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me)
 
 ## why?
 
