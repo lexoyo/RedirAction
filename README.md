@@ -1,9 +1,16 @@
 ## usage
 
-Clone this repository and open this URL in a browser (replace `{your-github-name}` and `{any-url}`)
-`{your-github-name}.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url={any-url}`
+Clone this repository and open this URL in a browser (replace `{your-github-name}` and `{any-url}`):
 
-Example with my clone: [`http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me`](http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me)
+```
+{your-github-name}.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url={any-url}
+```
+
+Example with my clone: 
+[Open this URL to be redirected to lexoyo.me](http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me), the URL is
+```
+http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me
+```
 
 ## why?
 
