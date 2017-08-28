@@ -6,11 +6,16 @@ Clone this repository and open this URL in a browser (replace `{your-github-name
 {your-github-name}.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url={any-url}
 ```
 
-Example with my clone: 
-[Open this URL to be redirected to lexoyo.me](http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me), the URL is
-```
-http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me
-```
+These params are optional:
+
+* `url`
+* `delay`
+* `text`
+
+## Example with my clone: 
+
+Open this URL to be redirected to lexoyo.me after 1s:
+http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me)
 
 ## why?
 
