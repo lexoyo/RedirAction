@@ -3,7 +3,7 @@
 Clone this repository and open this URL in a browser (replace `{your-github-name}` and `{any-url}`):
 
 ```
-{your-github-name}.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url={any-url}
+{your-github-name}.github.io/RedirAction/?delay=1000&text=wait a second you are being redirected&url={any-url}
 ```
 
 These params are optional:
@@ -15,7 +15,7 @@ These params are optional:
 ## Example with my clone: 
 
 Open this URL to be redirected to lexoyo.me after 1s:
-`http://lexoyo.github.io/redirect-to/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me`
+`http://lexoyo.github.io/RedirAction/?delay=1000&text=wait a second you are being redirected&url=http://lexoyo.me`
 
 ## why?
 
